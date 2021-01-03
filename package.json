@@ -1,0 +1,14 @@
+{
+  "name": "expo-sqlite-hooks",
+  "version": "0.1.2",
+  "description": "A extension of expo-sqlite to use it with react hooks",
+  "main": "database.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+  },
+  "author": "Jesus Cervantes",
+  "license": "ISC",
+  "keywords": ["react native", "expo", "sqlite", "hooks"]
+}
